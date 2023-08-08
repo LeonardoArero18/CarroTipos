@@ -21,7 +21,7 @@ open class Carro(
     }
 
     open fun detalhesCarro():String{
-        return ""
+        return "OKAY"
     }
 
 }
