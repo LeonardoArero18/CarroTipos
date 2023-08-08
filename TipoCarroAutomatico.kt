@@ -10,7 +10,7 @@ class TipoCarroAutomatico(
     override fun detalhesCarro(): String {
         return "Automatico, " +
                 "Freio ABS, " +
-                "Elétrico"
+                "Elétrica"
 
     }
 
