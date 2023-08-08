@@ -7,7 +7,7 @@ class TipoCarroManual(
 ):Carro(nome,modelo,ano,cor,velocidadeAtual) {
 
     override fun detalhesCarro(): String {
-        return "MANUAL, FREIO ABS, DIREÇÃO ELETRÔNICA"
+        return "Manual, Freio ABS, Direção Elétrica"
     }
 
 
