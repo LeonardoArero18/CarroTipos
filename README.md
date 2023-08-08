@@ -5,11 +5,3 @@ O código da função 'main' cria três instâncias de carros diferentes: 'carro
 
 Para executar o aplicativo, você pode clonar o repositório e executar o código em um ambiente Kotlin.
 
-### Exemplo de Saída
-Nome do CarroA: JEEP
-Modelo: 4X4
-Ano: 2014
-Cor: Azul
-Velocidade Atual: 0.0
-Acelerando o carro...
-Detalhes: ANUAL, FREIO ABS, DIREÇÃO ELETRÔNICA
